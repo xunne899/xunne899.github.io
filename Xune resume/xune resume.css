@@ -1,0 +1,22 @@
+ body {margin=0}
+
+ header{background:url(https://i.pinimg.com/736x/73/61/b3/7361b3da5498eb9c9a3fd6182a64a47f--block-prints.jpg);
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom:50px;
+        color:grey;
+        background-size: cover}
+
+  h1{text-align: center;font-family: 'Pacifico', cursive;background-color: red}
+  h2{text-align: center;font-family: 'Pacifico', cursive;background-color: red}
+  h3{text-align:left;background-color: grey;font-family: 'Shadows Into Light', cursive;}
+  h4{text-align:left;background-color: grey}
+  h5{text-align:left;background-color: grey}
+  .yellowbg{
+	background-color: yellow;
+     padding-top:0px;
+     padding-bottom:0px;
+     margin:0;
+     }
+
+     .hidden{display:none;}
